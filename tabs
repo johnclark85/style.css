@@ -1,0 +1,83 @@
+<style>
+/*1. Below increases link font size*/
+/*a:link {
+
+font-weight:bold;
+}*/
+
+ .a {
+font-size: 94px;
+
+}
+
+
+
+
+.s-lib-box-content {
+  padding: px;
+}
+
+
+.s-lib-jqtabs .nav-tabs>li>a{
+
+    color: #fff;
+
+    background-color: #red;
+
+    font-weight: bold;
+
+}
+
+ 
+
+.s-lib-jqtabs .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs > li.active > a:hover {
+
+   color: #ffffff;
+
+   background-color: #000000;
+
+}
+
+.s-lib-jqtabs .nav-tabs>li>a {
+ background-color: grey;
+color: white;
+}
+
+ 
+
+/*#s-lib-ctabs-21884780*/
+
+/*.s-lib-jqtabs*/
+
+ 
+
+/* set the font-family for box titles */
+/.s-lib-box .s-lib-box-title {
+
+font-size: px;
+
+color: #ffffff;
+}/*
+
+
+.container(
+width:90px;
+}
+
+.container.footer{
+width:100% !important;
+}
+
+#s-lib-banner{
+width:100%;
+}
+
+.000s-lg-guide-body{
+width:100%;
+}
+
+
+
+</style>
+
+
